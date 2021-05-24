@@ -1,7 +1,7 @@
 # blog-app
 Blog application
 
-This is the blog application used for create, update, delete the blogs and add ablog comments.
+This is the blog application used for create, update, delete the blogs and add a blog comments.
 
 copy the source file. then run the below comments in blog_proj path.
 
@@ -28,19 +28,19 @@ http://127.0.0.1:8000/deleteblog/<blog_id>        - delete the blog
 
 below are the screenshots for page reference.
 
-Blog lists:
+**Blog lists:**
 
 ![image](https://user-images.githubusercontent.com/84706944/119323075-f0c00180-bc9b-11eb-8259-c057beacb031.png)
 
-Read the full details of the blog:
+**Read the full details of the blog:**
 
 ![image](https://user-images.githubusercontent.com/84706944/119323164-0c2b0c80-bc9c-11eb-90da-677640a84516.png)
 
-Add the blog:
+**Add the blog:**
 
 ![image](https://user-images.githubusercontent.com/84706944/119323226-1947fb80-bc9c-11eb-8996-e9efe774f5c5.png)
 
-Update the blog:
+**Update the blog:**
 
 ![image](https://user-images.githubusercontent.com/84706944/119323282-25cc5400-bc9c-11eb-96d8-f3823822ab80.png)
 
